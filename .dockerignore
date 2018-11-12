@@ -1,0 +1,10 @@
+# Ignore SQLite database file 
+**/*.sqlite3
+
+**/*.xml
+**/.coverage
+
+**/*.pyc
+**/*pycache
+
+**/.DS_Store
